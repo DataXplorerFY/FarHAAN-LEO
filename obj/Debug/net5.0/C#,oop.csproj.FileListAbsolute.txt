@@ -1,0 +1,16 @@
+C:\Users\Leo\Desktop\C#,oop\bin\Debug\net5.0\C#,oop.exe
+C:\Users\Leo\Desktop\C#,oop\bin\Debug\net5.0\C#,oop.deps.json
+C:\Users\Leo\Desktop\C#,oop\bin\Debug\net5.0\C#,oop.runtimeconfig.json
+C:\Users\Leo\Desktop\C#,oop\bin\Debug\net5.0\C#,oop.runtimeconfig.dev.json
+C:\Users\Leo\Desktop\C#,oop\bin\Debug\net5.0\C#,oop.dll
+C:\Users\Leo\Desktop\C#,oop\bin\Debug\net5.0\ref\C#,oop.dll
+C:\Users\Leo\Desktop\C#,oop\bin\Debug\net5.0\C#,oop.pdb
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.AssemblyInfo.cs
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.dll
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\ref\C#,oop.dll
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.pdb
+C:\Users\Leo\Desktop\C#,oop\obj\Debug\net5.0\C#,oop.genruntimeconfig.cache
